@@ -1,8 +1,10 @@
 # Even-Registration-App
 Design
+
 https://www.figma.com/design/FTdeqMWNVzJNWSdU9Vlts2/Untitled?node-id=15-165&t=nYIRC9HHKkgnU34H-0
 
 Prototype
+
 https://www.figma.com/design/FTdeqMWNVzJNWSdU9Vlts2/Untitled?node-id=15-165&m=dev&t=nYIRC9HHKkgnU34H-1✨ Project Overview
 
 This is a College Event App High-Fidelity UI Design created using Figma. The application provides a modern and attractive interface for students to discover college events, view event details, register for events, receive notifications, and manage their event participation.
